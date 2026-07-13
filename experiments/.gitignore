@@ -1,0 +1,4 @@
+# Keep generated data and caches out of git (data stays local).
+__pycache__/
+*.pyc
+*.csv
